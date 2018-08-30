@@ -1,0 +1,8 @@
+{
+  "extends": "@oclif/tslint",
+  "rules": {
+    "semicolon": [true, "always"],
+    "object-curly-spacing": [true, "always"],
+    "prefer-readonly": [false]
+  }
+}
